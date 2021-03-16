@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Huiswerk4/1.0.0": {
+        "runtime": {
+          "Huiswerk4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Huiswerk4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

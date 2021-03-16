@@ -1,0 +1,13 @@
+C:\Users\bramb\Documents\Windesheim\ad\Code\Les 3 - Recursie en sorteren\Huiswerk3\bin\Debug\netcoreapp3.1\Huiswerk3.exe
+C:\Users\bramb\Documents\Windesheim\ad\Code\Les 3 - Recursie en sorteren\Huiswerk3\bin\Debug\netcoreapp3.1\Huiswerk3.deps.json
+C:\Users\bramb\Documents\Windesheim\ad\Code\Les 3 - Recursie en sorteren\Huiswerk3\bin\Debug\netcoreapp3.1\Huiswerk3.runtimeconfig.json
+C:\Users\bramb\Documents\Windesheim\ad\Code\Les 3 - Recursie en sorteren\Huiswerk3\bin\Debug\netcoreapp3.1\Huiswerk3.runtimeconfig.dev.json
+C:\Users\bramb\Documents\Windesheim\ad\Code\Les 3 - Recursie en sorteren\Huiswerk3\bin\Debug\netcoreapp3.1\Huiswerk3.dll
+C:\Users\bramb\Documents\Windesheim\ad\Code\Les 3 - Recursie en sorteren\Huiswerk3\bin\Debug\netcoreapp3.1\Huiswerk3.pdb
+C:\Users\bramb\Documents\Windesheim\ad\Code\Les 3 - Recursie en sorteren\Huiswerk3\obj\Debug\netcoreapp3.1\Huiswerk3.csprojAssemblyReference.cache
+C:\Users\bramb\Documents\Windesheim\ad\Code\Les 3 - Recursie en sorteren\Huiswerk3\obj\Debug\netcoreapp3.1\Huiswerk3.AssemblyInfoInputs.cache
+C:\Users\bramb\Documents\Windesheim\ad\Code\Les 3 - Recursie en sorteren\Huiswerk3\obj\Debug\netcoreapp3.1\Huiswerk3.AssemblyInfo.cs
+C:\Users\bramb\Documents\Windesheim\ad\Code\Les 3 - Recursie en sorteren\Huiswerk3\obj\Debug\netcoreapp3.1\Huiswerk3.csproj.CoreCompileInputs.cache
+C:\Users\bramb\Documents\Windesheim\ad\Code\Les 3 - Recursie en sorteren\Huiswerk3\obj\Debug\netcoreapp3.1\Huiswerk3.dll
+C:\Users\bramb\Documents\Windesheim\ad\Code\Les 3 - Recursie en sorteren\Huiswerk3\obj\Debug\netcoreapp3.1\Huiswerk3.pdb
+C:\Users\bramb\Documents\Windesheim\ad\Code\Les 3 - Recursie en sorteren\Huiswerk3\obj\Debug\netcoreapp3.1\Huiswerk3.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\bramb\Documents\Windesheim\ad\src\Exam\Teken\bin\Debug\netcoreapp3.1\Teken.exe
+C:\Users\bramb\Documents\Windesheim\ad\src\Exam\Teken\bin\Debug\netcoreapp3.1\Teken.deps.json
+C:\Users\bramb\Documents\Windesheim\ad\src\Exam\Teken\bin\Debug\netcoreapp3.1\Teken.runtimeconfig.json
+C:\Users\bramb\Documents\Windesheim\ad\src\Exam\Teken\bin\Debug\netcoreapp3.1\Teken.runtimeconfig.dev.json
+C:\Users\bramb\Documents\Windesheim\ad\src\Exam\Teken\bin\Debug\netcoreapp3.1\Teken.dll
+C:\Users\bramb\Documents\Windesheim\ad\src\Exam\Teken\bin\Debug\netcoreapp3.1\Teken.pdb
+C:\Users\bramb\Documents\Windesheim\ad\src\Exam\Teken\obj\Debug\netcoreapp3.1\Teken.csprojAssemblyReference.cache
+C:\Users\bramb\Documents\Windesheim\ad\src\Exam\Teken\obj\Debug\netcoreapp3.1\Teken.AssemblyInfoInputs.cache
+C:\Users\bramb\Documents\Windesheim\ad\src\Exam\Teken\obj\Debug\netcoreapp3.1\Teken.AssemblyInfo.cs
+C:\Users\bramb\Documents\Windesheim\ad\src\Exam\Teken\obj\Debug\netcoreapp3.1\Teken.csproj.CoreCompileInputs.cache
+C:\Users\bramb\Documents\Windesheim\ad\src\Exam\Teken\obj\Debug\netcoreapp3.1\Teken.dll
+C:\Users\bramb\Documents\Windesheim\ad\src\Exam\Teken\obj\Debug\netcoreapp3.1\Teken.pdb
+C:\Users\bramb\Documents\Windesheim\ad\src\Exam\Teken\obj\Debug\netcoreapp3.1\Teken.genruntimeconfig.cache

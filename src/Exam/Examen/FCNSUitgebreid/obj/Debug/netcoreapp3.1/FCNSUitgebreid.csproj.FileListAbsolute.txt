@@ -1,0 +1,13 @@
+C:\Users\bramb\Documents\Windesheim\ad\src\Exam\Examen\FCNSUitgebreid\bin\Debug\netcoreapp3.1\FCNSUitgebreid.exe
+C:\Users\bramb\Documents\Windesheim\ad\src\Exam\Examen\FCNSUitgebreid\bin\Debug\netcoreapp3.1\FCNSUitgebreid.deps.json
+C:\Users\bramb\Documents\Windesheim\ad\src\Exam\Examen\FCNSUitgebreid\bin\Debug\netcoreapp3.1\FCNSUitgebreid.runtimeconfig.json
+C:\Users\bramb\Documents\Windesheim\ad\src\Exam\Examen\FCNSUitgebreid\bin\Debug\netcoreapp3.1\FCNSUitgebreid.runtimeconfig.dev.json
+C:\Users\bramb\Documents\Windesheim\ad\src\Exam\Examen\FCNSUitgebreid\bin\Debug\netcoreapp3.1\FCNSUitgebreid.dll
+C:\Users\bramb\Documents\Windesheim\ad\src\Exam\Examen\FCNSUitgebreid\bin\Debug\netcoreapp3.1\FCNSUitgebreid.pdb
+C:\Users\bramb\Documents\Windesheim\ad\src\Exam\Examen\FCNSUitgebreid\obj\Debug\netcoreapp3.1\FCNSUitgebreid.csprojAssemblyReference.cache
+C:\Users\bramb\Documents\Windesheim\ad\src\Exam\Examen\FCNSUitgebreid\obj\Debug\netcoreapp3.1\FCNSUitgebreid.AssemblyInfoInputs.cache
+C:\Users\bramb\Documents\Windesheim\ad\src\Exam\Examen\FCNSUitgebreid\obj\Debug\netcoreapp3.1\FCNSUitgebreid.AssemblyInfo.cs
+C:\Users\bramb\Documents\Windesheim\ad\src\Exam\Examen\FCNSUitgebreid\obj\Debug\netcoreapp3.1\FCNSUitgebreid.csproj.CoreCompileInputs.cache
+C:\Users\bramb\Documents\Windesheim\ad\src\Exam\Examen\FCNSUitgebreid\obj\Debug\netcoreapp3.1\FCNSUitgebreid.dll
+C:\Users\bramb\Documents\Windesheim\ad\src\Exam\Examen\FCNSUitgebreid\obj\Debug\netcoreapp3.1\FCNSUitgebreid.pdb
+C:\Users\bramb\Documents\Windesheim\ad\src\Exam\Examen\FCNSUitgebreid\obj\Debug\netcoreapp3.1\FCNSUitgebreid.genruntimeconfig.cache

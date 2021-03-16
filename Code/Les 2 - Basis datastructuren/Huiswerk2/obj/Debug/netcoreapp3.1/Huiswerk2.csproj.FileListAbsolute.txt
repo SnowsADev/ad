@@ -1,0 +1,13 @@
+C:\Users\bramb\Documents\Windesheim\ad\Code\Les 2 - Basis datastructuren\Huiswerk2\obj\Debug\netcoreapp3.1\Huiswerk2.csprojAssemblyReference.cache
+C:\Users\bramb\Documents\Windesheim\ad\Code\Les 2 - Basis datastructuren\Huiswerk2\obj\Debug\netcoreapp3.1\Huiswerk2.AssemblyInfoInputs.cache
+C:\Users\bramb\Documents\Windesheim\ad\Code\Les 2 - Basis datastructuren\Huiswerk2\obj\Debug\netcoreapp3.1\Huiswerk2.AssemblyInfo.cs
+C:\Users\bramb\Documents\Windesheim\ad\Code\Les 2 - Basis datastructuren\Huiswerk2\obj\Debug\netcoreapp3.1\Huiswerk2.csproj.CoreCompileInputs.cache
+C:\Users\bramb\Documents\Windesheim\ad\Code\Les 2 - Basis datastructuren\Huiswerk2\bin\Debug\netcoreapp3.1\Huiswerk2.exe
+C:\Users\bramb\Documents\Windesheim\ad\Code\Les 2 - Basis datastructuren\Huiswerk2\bin\Debug\netcoreapp3.1\Huiswerk2.deps.json
+C:\Users\bramb\Documents\Windesheim\ad\Code\Les 2 - Basis datastructuren\Huiswerk2\bin\Debug\netcoreapp3.1\Huiswerk2.runtimeconfig.json
+C:\Users\bramb\Documents\Windesheim\ad\Code\Les 2 - Basis datastructuren\Huiswerk2\bin\Debug\netcoreapp3.1\Huiswerk2.runtimeconfig.dev.json
+C:\Users\bramb\Documents\Windesheim\ad\Code\Les 2 - Basis datastructuren\Huiswerk2\bin\Debug\netcoreapp3.1\Huiswerk2.dll
+C:\Users\bramb\Documents\Windesheim\ad\Code\Les 2 - Basis datastructuren\Huiswerk2\bin\Debug\netcoreapp3.1\Huiswerk2.pdb
+C:\Users\bramb\Documents\Windesheim\ad\Code\Les 2 - Basis datastructuren\Huiswerk2\obj\Debug\netcoreapp3.1\Huiswerk2.dll
+C:\Users\bramb\Documents\Windesheim\ad\Code\Les 2 - Basis datastructuren\Huiswerk2\obj\Debug\netcoreapp3.1\Huiswerk2.pdb
+C:\Users\bramb\Documents\Windesheim\ad\Code\Les 2 - Basis datastructuren\Huiswerk2\obj\Debug\netcoreapp3.1\Huiswerk2.genruntimeconfig.cache

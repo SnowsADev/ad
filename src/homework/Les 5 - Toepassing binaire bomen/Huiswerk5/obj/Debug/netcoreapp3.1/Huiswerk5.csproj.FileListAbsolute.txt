@@ -1,0 +1,13 @@
+C:\Users\bramb\Documents\Windesheim\ad\src\homework\Les 5 - Toepassing binaire bomen\Huiswerk5\bin\Debug\netcoreapp3.1\Huiswerk5.exe
+C:\Users\bramb\Documents\Windesheim\ad\src\homework\Les 5 - Toepassing binaire bomen\Huiswerk5\bin\Debug\netcoreapp3.1\Huiswerk5.deps.json
+C:\Users\bramb\Documents\Windesheim\ad\src\homework\Les 5 - Toepassing binaire bomen\Huiswerk5\bin\Debug\netcoreapp3.1\Huiswerk5.runtimeconfig.json
+C:\Users\bramb\Documents\Windesheim\ad\src\homework\Les 5 - Toepassing binaire bomen\Huiswerk5\bin\Debug\netcoreapp3.1\Huiswerk5.runtimeconfig.dev.json
+C:\Users\bramb\Documents\Windesheim\ad\src\homework\Les 5 - Toepassing binaire bomen\Huiswerk5\bin\Debug\netcoreapp3.1\Huiswerk5.dll
+C:\Users\bramb\Documents\Windesheim\ad\src\homework\Les 5 - Toepassing binaire bomen\Huiswerk5\bin\Debug\netcoreapp3.1\Huiswerk5.pdb
+C:\Users\bramb\Documents\Windesheim\ad\src\homework\Les 5 - Toepassing binaire bomen\Huiswerk5\obj\Debug\netcoreapp3.1\Huiswerk5.csprojAssemblyReference.cache
+C:\Users\bramb\Documents\Windesheim\ad\src\homework\Les 5 - Toepassing binaire bomen\Huiswerk5\obj\Debug\netcoreapp3.1\Huiswerk5.AssemblyInfoInputs.cache
+C:\Users\bramb\Documents\Windesheim\ad\src\homework\Les 5 - Toepassing binaire bomen\Huiswerk5\obj\Debug\netcoreapp3.1\Huiswerk5.AssemblyInfo.cs
+C:\Users\bramb\Documents\Windesheim\ad\src\homework\Les 5 - Toepassing binaire bomen\Huiswerk5\obj\Debug\netcoreapp3.1\Huiswerk5.csproj.CoreCompileInputs.cache
+C:\Users\bramb\Documents\Windesheim\ad\src\homework\Les 5 - Toepassing binaire bomen\Huiswerk5\obj\Debug\netcoreapp3.1\Huiswerk5.dll
+C:\Users\bramb\Documents\Windesheim\ad\src\homework\Les 5 - Toepassing binaire bomen\Huiswerk5\obj\Debug\netcoreapp3.1\Huiswerk5.pdb
+C:\Users\bramb\Documents\Windesheim\ad\src\homework\Les 5 - Toepassing binaire bomen\Huiswerk5\obj\Debug\netcoreapp3.1\Huiswerk5.genruntimeconfig.cache

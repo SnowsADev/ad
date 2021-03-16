@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>AD</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="..\..\..\datastructures\FirstChildNextSibling\FCNSBuilder.cs" Link="FirstChildNextSibling\FCNSBuilder.cs" />
+    <Compile Include="..\..\..\Datastructures\FirstChildNextSibling\FCNSNode.cs" Link="FirstChildNextSibling\FCNSNode.cs" />
+    <Compile Include="..\..\..\Datastructures\FirstChildNextSibling\FirstChildNextSibling.cs" Link="FirstChildNextSibling\FirstChildNextSibling.cs" />
+    <Compile Include="..\..\..\Datastructures\FirstChildNextSibling\IFCNSNode.cs" Link="FirstChildNextSibling\IFCNSNode.cs" />
+    <Compile Include="..\..\..\Datastructures\FirstChildNextSibling\IFirstChildNextSibling.cs" Link="FirstChildNextSibling\IFirstChildNextSibling.cs" />
+  </ItemGroup>
+
+</Project>
